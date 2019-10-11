@@ -1,1 +1,2 @@
 # squadlitor
+print("hello squadlitor")
